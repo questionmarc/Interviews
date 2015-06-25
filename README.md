@@ -30,5 +30,5 @@ Company-oriented
  - what is the long-term plan for the company?
  - what are the core work hours? is everyone expected to be in the office at certain times?
  - what is the work from home policy?
- - What's the turnaround been like in the last year?
+ - What's the turnover been like in the last year?
 
