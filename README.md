@@ -4,7 +4,6 @@ Collection of useful things for interviews.
 ##Questions from [Julia Evans](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
 
 ###Engineering practices
-==================
 
  - What version control system do you use? (if none, the interview should be over =))
  - Do you test your code?
@@ -21,7 +20,6 @@ Collection of useful things for interviews.
  - What's your approach to technical debt?
 
 ###Management style
-=================
 
  - How does engineering work get assigned?
  - How are technical decisions made and communicated?
@@ -37,7 +35,6 @@ Collection of useful things for interviews.
  - How is performance evaluated?
 
 ###Quality of life
-=================
 
  - How much vacation do people get? If there's "unlimited" vacation, how much vacation do people normally take?
  - Is it possible to take sabbaticals or unpaid vacation?
@@ -56,13 +53,11 @@ Collection of useful things for interviews.
  - As many of these as possible are "statistical" questions -- a company may say that they "don't have hours", but if everyone leaves at 9pm that's not a good sign.
 
 ###Community involvement
-==============
 
  - Do you contribute to open source projects? Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
  - Do your employees speak at conferences about your work?
 
 ###Career development
-===============
 
  - Are employees encouraged to go speak at conferences?
  - Do you cover travel to conferences? How many conferences a year do devs typically go to?
@@ -70,7 +65,6 @@ Collection of useful things for interviews.
  - In what other ways do you support career development?
 
 ###Culture
-==============
 
  - How do you determine if someone is a poor fit for your company?
  - How are your teams structured? What is the management structure like?
@@ -83,7 +77,6 @@ Collection of useful things for interviews.
  - How many hours a week does senior management work? Do they put in 80-hour weeks?
 
 ###Financials/business model/growth
-===============
 
  - Are you profitable?
   - if not, how does this affect what you can do? What's your planned timeline for becoming profitable?
@@ -94,7 +87,6 @@ Collection of useful things for interviews.
  - How is the office space physically organized?
 
 ###Other
-==========
 
  - Can you tell me about how the interview process is structured? How many interviews are there?
  - How often do you offer above asking? Can I speak with someone who got such an offer?
@@ -105,7 +97,6 @@ Collection of useful things for interviews.
 ##Our Questions
 
 ###Technical
-=========
 
  - stack technologies? 
  - technical debt?
@@ -116,14 +107,14 @@ Collection of useful things for interviews.
  - what kind of hardware do i get? (i.e. laptop vs desktop, mac vs thinkpad, etc)
 
 ###Team-oriented
-=============
+
  - how do you measure success on a team-basis? individual-basis? company-basis?
  - what are some current, large initiatives?
  - What agile practices do you implement?
  - What does a programmer day to day look like?
 
 ###Company-oriented
-================
+
  - What's the company culture like? Strict vs. Laid-Back? Conservative vs Loose?
  - what do you use for communication in the company? irc? slack? hipchat? etc?
  - where is the company currently growing? Where is it looking to grow?
