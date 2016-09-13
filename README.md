@@ -83,7 +83,9 @@ Collection of useful things for interviews.
  - How do you make money? (I often explain to my parents or non-technical friends companies' business models to test if they really make sense.)
  - How much are you planning to hire in the next year?
  - Are company financials, minus salaries, transparent throughout the company?
- - Things to look for in real life
+
+###Things to look for in real life
+
  - How is the office space physically organized?
 
 ###Other
